@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-image:
+   url("https://i.pinimg.com/474x/8a/34/c2/8a34c2e55074db458324ca6f7d9234a7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Yeon Sung', cursive;
+    font-size: 30px;
+}
+input, button {
+    font-family: 'Yeon Sung', cursive;
+    font-size: 20px;
+}
+.results img {
+    height: 255px;
+}
